@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jbjonesjr/gov-stats.git"
+    "url": "git+https://github.com/jbjonesjr/govstats.git"
   },
   "keywords": [
     "code.gov",
@@ -17,9 +17,9 @@
   "author": "@jbjonesjr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jbjonesjr/gov-stats/issues"
+    "url": "https://github.com/jbjonesjr/govstats/issues"
   },
-  "homepage": "https://github.com/jbjonesjr/gov-stats#readme",
+  "homepage": "https://github.com/jbjonesjr/govstats#readme",
   "dependencies": {
     "@code.gov/api-client": "github:jbjonesjr/code-gov-api-client#api_key",
     "@octokit/rest": "^14.0.9",
