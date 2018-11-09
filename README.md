@@ -3,6 +3,7 @@ code.gov stats tooling
 
 ## 11/09 data pull
 ### Stars
+
 ---------------- stars ----------------------------
 | 1 . nasa/openmct                        : 5282  |
 | 2 . USArmyResearchLab/Dshell            : 5098  |
@@ -18,6 +19,7 @@ code.gov stats tooling
 
 
 ### Forks
+
 ---------------- forks ----------------------------
 | 1 . scipy/scipy                         : 2556  |
 | 2 . USArmyResearchLab/Dshell            : 1164  |
@@ -33,6 +35,7 @@ code.gov stats tooling
 
 
 ### Watchers
+
 --------------- watchers --------------------------
 | 1 . USArmyResearchLab/Dshell            : 673   |
 | 2 . scipy/scipy                         : 312   |
@@ -47,26 +50,28 @@ code.gov stats tooling
 ---------------------------------------------------
 
 ### Contributors
-** NOTE: Contributor** stats are heavily influenced by upstream forks. Should exclude those repositories from the computation
+
 ---------------- contributors ---------------------
-| 1 . GSA/terraform                       : 1132  |
-| 2 . 18F/node-1                          : 803   |
-| 3 . scipy/scipy                         : 669   |
-| 4 . GSA/packer                          : 625   |
-| 5 . 18F/discourse                       : 537   |
-| 6 . 18F/jekyll                          : 437   |
-| 7 . spack/spack                         : 338   |
-| 8 . GSA/sentry                          : 265   |
-| 9 . LLNL/zfs                            : 246   |
-| 10. cfpb/hubot                          : 227   |
+| 1 . scipy/scipy                         : 669   |
+| 3 . trilinos/Trilinos                   : 197   |
+| 4 . SchedMD/slurm                       : 162   |
+| 5 . 18F/18f.gsa.gov                     : 139   |
+| 6 . Kitware/ParaView                    : 136   |
+| 7 . GSA/wordpress-seo                   : 119   |
+| 8 . department-of-veterans-affairs/vets-website : 116   |
+| 9 . idaholab/moose                      : 114   |
+| 10. materialsproject/pymatgen           : 113   |
+| 11. petsc/petsc                         : 113   |
 ---------------------------------------------------
 
 ### Dependents
+
 ---------------- dependents -----------------------
 undefined
 ---------------------------------------------------
 
 ### Commits
+
 ---------------- commits --------------------------
 undefined
 ---------------------------------------------------
